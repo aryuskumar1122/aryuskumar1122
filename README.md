@@ -102,24 +102,14 @@ class Aryus:
 
 </div>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARYUS_GITHUB_USERNAME&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/" target="_blank">
+<a href="[https://linkedin.com/](https://www.linkedin.com/in/aryus-kumar/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your@email.com">
+<a href="aryuskumar1122@email.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
